@@ -1,5 +1,7 @@
 <h1 align="center" id="title">OG Trick'cord Treat</h1>
 
+<h2>🎃 Code disponible le 01/11/2024 🎃</h2>
+  
 <p align="center"><img src="https://socialify.git.ci/Snipeur060/Trick-or-treat-discord/image?font=Jost&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F353655%2Fdiscord-icon.svg&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">Le bot Trick'Ords est une version alternative du célèbre bot Trick'cord Treat Il reprend l'essence de l'événement Halloween interactif en permettant aux membres des serveurs Discord de participer à des chasses aux monstres de collecter des objets et de rivaliser pour figurer parmi les meilleurs du classement. En l'honneur de Trick'cord Treat#1944 fait par Ryan Jones (Lmaster20)</p>
