@@ -6,7 +6,7 @@
 
 <p id="description">Le bot Trick'Ords est une version alternative du célèbre bot Trick'cord Treat Il reprend l'essence de l'événement Halloween interactif en permettant aux membres des serveurs Discord de participer à des chasses aux monstres de collecter des objets et de rivaliser pour figurer parmi les meilleurs du classement. En l'honneur de Trick'cord Treat#1944 fait par Ryan Jones (Lmaster20)</p>
 
-<p align="center"><img src="https://img.shields.io/badge/PYTHON-03a9fc?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/SQL-034afc?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/PYTHON-03a9fc?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/SQL-034afc?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/FLASK-034afc?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
@@ -64,6 +64,8 @@ python3 main.py
 Cliquer sur le fichier
 ```
 
+<p>⚠️ Changer dans CONFIG.py le token/username/password/port</p>
+
 <p>9. 🎉C'est fini (ne pas oublier de changer le token ⚠️)</p>
 
   
@@ -74,6 +76,7 @@ Technologies used in the project:
 
 *   Python
 *   Sqlite
+*   Flask
 
 <h2>🛡️ License:</h2>
 
