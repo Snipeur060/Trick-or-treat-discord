@@ -50,7 +50,7 @@ pip install -r requirements.txt
 py -m pip install -r requirements.txt
 ```
 
-<p>6. Faire tourner le bot (3 options)</p>
+<p>3. Faire tourner le bot (3 options)</p>
 
 ```
 py main.py
@@ -66,7 +66,7 @@ Cliquer sur le fichier
 
 <p>⚠️ Changer dans CONFIG.py le token/username/password/port</p>
 
-<p>9. 🎉C'est fini (ne pas oublier de changer le token ⚠️)</p>
+<p>4. 🎉C'est fini (ne pas oublier de changer le token ⚠️)</p>
 
   
   
